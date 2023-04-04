@@ -40,6 +40,7 @@ body {
 #conatiner h2{
     color: crimson;
     font-family: sans-serif;
+    background-color: rgb(208, 208, 208);
 }
 
 #post {
