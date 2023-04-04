@@ -37,6 +37,11 @@ body {
     font-size: 20px;
 } 
 
+#conatiner h2{
+    color: crimson;
+    font-family: sans-serif;
+}
+
 #post {
     padding: 1em;
 }
