@@ -44,6 +44,10 @@ body {
     background-color: rgb(39, 142, 206);
 }
 
+#container h3{
+    color:rgb(255, 0, 51);
+}
+
 #post {
     padding: 1em;
 }
