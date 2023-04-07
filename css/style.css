@@ -1,10 +1,16 @@
 body {
     color:rgb(0, 157, 255);
+    background: rgb(53, 53, 53);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: 16px;
     margin: 0;
     padding: 0;
+}
+
+#cabecera #logo{
+    width: 150px;
+    vertical-align: middle;
 }
 
 #cabecera{
@@ -13,7 +19,7 @@ body {
     margin: 0;
     font-weight: bold;
     padding: 0.5em;
-    font-size: 25px;
+    font-size: 30px;
     color: rgb(7, 237, 45);
     font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
 }
@@ -49,6 +55,7 @@ body {
 }
 
 #post {
+    background: white;
     padding: 1em;
 }
 
