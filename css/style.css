@@ -50,6 +50,13 @@ body {
     background-color: rgb(39, 142, 206);
 }
 
+#container h2:hover{
+    border: 1px solid gray;
+    color: rgb(255, 122, 5);
+    background-color: rgb(255, 255, 255);
+    transition: 0.5s;
+}
+
 #container h3{
     color:rgb(255, 0, 51);
 }
