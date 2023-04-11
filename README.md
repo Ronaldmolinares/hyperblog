@@ -1,4 +1,4 @@
-### hyperblog
+## hyperblog
 Un blog increíble para el curso de Git y GitHub de Platzi
 > Con este curso de Platzi logre aprender sobre el uso de Git y GitHub 
 
