@@ -4,6 +4,7 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 
 En este curso aprendí
 
+* El curso es Genial.
 * Como inicializar un repositorio 
 * Como crear ramas
 * Como crear tags
