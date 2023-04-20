@@ -9,3 +9,4 @@ En este curso aprendí
 * Como crear tags
 * Como son los flujos de trabjo 
 * Como hacer pull, push, merge, entre muchas otras cosas más. 
+* Creado por el increible Platzi Team
