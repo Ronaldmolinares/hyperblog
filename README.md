@@ -11,3 +11,4 @@ En este curso aprendí
 * Como son los flujos de trabjo 
 * Como hacer pull, push, merge, entre muchas otras cosas más. 
 * Creado por el increible Platzi Team
+* Disponible para cualquier persona.
