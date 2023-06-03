@@ -10,7 +10,7 @@ Experimento 2
 
 Master 1
 
-MASTER 2.20
+EXPERIMENTO 1.10
 
 MASTER 1.10
 
